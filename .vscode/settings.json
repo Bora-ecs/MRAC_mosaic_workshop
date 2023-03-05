@@ -47,5 +47,6 @@
     ],
     // vscode
     "problems.decorations.enabled": false,
-    "python.linting.prospectorEnabled": false
+    "python.linting.prospectorEnabled": false,
+    "cmake.sourceDirectory": "${workspaceFolder}/Universal_Robots_ROS_Driver/controller_stopper"
 }
